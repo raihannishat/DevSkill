@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hoAdWPHDCLvNKUHtNdzh3qK1uK4s+P+vFvdUOhkAMwcZubLOS2zHzoZFeCRMtMv1+c1THB0m4sZmxChpzyjgsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Raihan Nishat\\Desktop\\DevSkill\\DevSkill\\DevSkill\\DevSkill.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raihan Nishat\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
